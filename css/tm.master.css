@@ -1,0 +1,506 @@
+header{
+	width:100%;
+	height:172px;
+	/*background-color:#f2c5cb;*/
+	position:relative;	
+}
+.header-public{
+	width:100%;
+	height:26px;
+	background-color:#f2f2f2;
+	border-bottom:1px solid #e5e5e5;
+}
+.public{
+	width:1190px;
+	height:26px;
+	margin:0 auto;
+	
+}
+.public-text{
+	float:left;
+}
+.public-left{
+	float:left;
+}
+.public-right{
+	float:right;
+}
+.public-pic{
+	width:12px;
+	height:11px;
+	margin-top:8px;
+	margin-right:3px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px 0px;
+	overflow: hidden;
+}
+.public-pic1{
+	width:6px;
+	height:4px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0 -14px;
+	overflow: hidden;
+	margin-top:12px;
+}
+.public-pic2{
+	width:12px;
+	height:10px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -18px;
+	overflow: hidden;
+	margin-left:17px;
+}
+.public-pic3{
+	width:13px;
+	height:12px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -31px;
+	overflow:hidden;
+	margin-left:20px;
+}
+.public-pic4{
+	width:8px;
+	height:12px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -46px;
+	overflow:hidden;
+}
+.public-pic5{
+	width:12px;
+	height:12px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -61px;
+}
+.header-content{
+	width:1190px;
+	height:145px;
+	margin:0 auto;
+}
+.time{
+	width:230px;
+	height:85px;
+	float:left;
+}
+.head-search{
+	width:1190px;
+	height:95px;
+	margin-bottom:17px;
+}
+.search-box1{
+	width:542px;
+	height:70px;
+	float:left;
+	margin-left:110px;
+	margin-top:25px;
+}
+.search-box{
+	width:542px;
+	height:38px;
+	float:left;
+}
+.search-text{
+	width:542px;
+	height:32px;
+	line-height:32px;
+	float:left;
+}
+.search{
+	width:448px;
+	height:32px;
+	border:3px solid #C40000;
+	outline: none;
+	float:left;
+	line-height:32px;
+}
+.right-pic{
+	width:181px;
+	height:85px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -19px 0px;
+	margin-left:120px;	
+}
+.searchBtn{
+	width:86px;
+	height:38px;
+	background-color: #C40000;
+	float:left;
+	outline: none;
+	color:#fff;
+}
+.head-nav{
+	width:1190px;
+	height:33px;
+	position:relative;
+}
+.nav-shop{
+	width:190px;
+	height:33px;
+	background-color: #C40000;
+	text-align:center;
+	line-height:33px;
+	
+}
+.shop-list{
+	width:190px;
+	height:480px;
+	background-color: #2d2d2d;
+	position:absolute;
+	top:33px;
+	left:0px;
+	*vertical-align: top;
+}
+.list-item{
+	height:30px;
+	line-height:30px;
+	position:relative;
+}
+.item-list{
+	width:50px;
+	height:468px;
+	padding:6px 10px;
+	position:absolute;
+	left:190px;
+	top:0px;
+	background-color: #fff;
+}
+.list-tips{
+	width:50px;
+	height:38px;
+	border-bottom:1px dotted #E5E5E5;
+	/*padding-top:14px;*/
+}
+.list-pic1{
+	width:16px;
+	height:16px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -280px;
+}
+.list-pic2{
+	width:16px;
+	height:15px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -301px;
+}
+.list-pic3{
+	width:16px;
+	height:15px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -1px -319px;
+}
+.list-pic4{
+	width:16px;
+	height:14px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -339px;
+}
+.head-sideBar{
+	width:25px;
+	height:688px;
+	background-color: #000000;
+	position:absolute;
+	top:0;
+	right:0;
+	padding:255px 5px 0px 5px;
+}
+.sideBar-pic{
+	width:25px;
+	height:12px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0 -89px;
+	overflow: hidden;
+}
+.sideBar-shop{
+	width:19px;
+	height:56px;
+	border:1px solid #CCCCCC;
+	border-left:none;
+	border-right:none;
+	margin-top:32px;
+	padding-left:6px;
+	padding-top:42px;
+	position:relative;
+}
+.shop-pic{
+	width:25px;
+	height:15px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -106px;
+	position:absolute;
+	top:19px;
+	left:1px;
+}
+.shop-pic1{
+	width:25px;
+	height:18px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -127px;
+	position:absolute;
+	top:403px;
+	left:5px;
+}
+.shop-pic2{
+	width:25px;
+	height:15px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -149px;
+	position:absolute;
+	top:448px;
+	left:5px;
+}
+.shop-pic3{
+	width:25px;
+	height:17px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -168px;
+	position:absolute;
+	top:490px;
+	left:5px;
+}
+.shop-pic4{
+	width:25px;
+	height:19px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -190px;
+	position:absolute;
+	top:532px;
+	left:5px;
+}
+.shop-pic5{
+	width:25px;
+	height:20px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -213px;
+	position:absolute;
+	top:574px;
+	left:5px;
+}
+.shop-pic6{
+	width:25px;
+	height:16px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -240px;
+	position:absolute;
+	top:847px;
+	left:5px;
+}
+.shop-pic7{
+	width:25px;
+	height:15px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat 0px -262px;
+	position:absolute;
+	top:883px;
+	left:5px;
+}
+.shopping-bg{
+	width:100%;
+	height:480px;
+	background-color: #e8e8e8;
+}
+.shopping-banner{
+	width:1190px;
+	height:480px;
+	margin:0 auto;
+}
+.banner-pic{
+	float:right;
+}
+.content-bg{
+	width:100%;
+	background-color:#f5f5f5;
+}
+.shopping-content{
+	width:1190px;
+	padding-top:36px;
+	margin:0 auto;
+}
+.shopping-logo{
+	width:1190px;
+	height:360px;
+	/*background-color: #647C54;*/
+}
+.logo-title{
+	width:1000px;
+	height:34px;
+	line-height:34px;
+}
+.title-pic{
+	width:190px;
+	height:34px;
+	float:left;
+}
+.title-bg{
+	width:190px;
+	height:34px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -30px -200px;
+}
+.title-text1{
+	width:52px;
+	height:14px;
+	border-bottom:3px solid black;
+	line-height:34px;
+}
+.logo-pic{
+	width:1190px;
+	height:326px;
+}
+.pic-left{
+	width:190px;
+	height:326px;
+	border-right:4px solid #E5E5E5;
+}
+.pic-litle1{
+	width:804px;
+	height:326px;
+	
+}
+.pic-litle{
+	width:132px;
+	height:80px;
+}
+.pic-right{
+	width:190px;
+	height:326px;
+	border-left:2px solid #E5E5E5;
+}
+.shopping-floor{
+	width:1190px;
+}
+.content-banner{
+	width:1190px;
+	height:90px;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.floor-left{
+	width:191px;
+	height:422px;
+}
+.floor-text{
+	width:156px;
+	height:120px;
+	padding-top:10px;
+	padding-left:35px;
+	background-color: #fafaf8;
+}
+.text-item{
+	width:75px;
+	height:120px;
+	line-height:28px;
+}
+.floor-right{
+	width:999px;
+	height:422px;
+}
+.floor-right-pic{
+	width:399px;
+	height:422px;
+	border:1px solid #999999;
+	border-top:none;
+	border-bottom:none;
+}
+.floor-item{
+	width:1190px;
+	height:422px;
+}
+footer{
+	width:100%;
+	height:607px;
+	border-top:1px solid #ededed;
+}
+.customer{
+	width:1190px;
+	height:363px;
+	margin:0 auto;
+}
+.you{
+	width:303px;
+	height:150px;
+	position:relative;
+	
+}
+.pic-you{
+	width:50px;
+	height:50px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -31px -237px;
+	position:absolute;
+	left:40px;
+	top:50px;
+}
+.customer-text{
+	
+	height:50px;
+	line-height:25px;
+	position:absolute;
+	left:117px;
+	top:52px;
+}
+.pic-line{
+	width:1px;
+	height:45px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -213px -4px;
+	position:absolute;
+	left:302px;
+	top:55px;
+}
+.customer-top{
+	width:1220px;
+	height:150px;
+	border-bottom:1px solid #EDEDED;
+}
+.customer-bottom{
+	width:1190px;
+	height:191px;
+	position:relative;
+	padding-top:21px;
+	padding-left:52px;
+	
+}
+.pic-bottom{
+	width:70px;
+	height:23px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -85px -293px;
+	position:absolute;
+	bottom:0px;
+	left: 49px;
+}
+.bottom-text{
+	width:238px;
+	height:180px;
+}
+dt{
+	height:32px;
+	line-height:32px;
+}
+dd{
+	height:20px;
+	line-height:20px;
+}
+.web{
+	width:98px;
+	height:98px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -62px -92px;
+}
+.copyRight-wrap{
+	height:242px;
+	border-top:2px solid #c40000;
+	background-color: black;
+}
+.copyRight{
+	width:1180px;
+	height:232px;
+	margin:0 auto;
+	padding-top:12px;
+	padding-left:10px;
+	position:relative;
+	
+}
+.copyRight-rext{
+	height:25px;
+	line-height:25px;
+}
+.copyRight-rext1{
+	height:50px;
+	line-height:25px;
+}
+.copyRight-note{
+	width:1190px;
+	margin-top:9px;
+	line-height:20px;
+}
+.gongshang{
+	width:73px;
+	height:30px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -87px -328px;
+	position:absolute;
+	left:10px;
+	top:165px;
+}
+.wenhua{
+	width:80px;
+	height:30px;
+	position:absolute;
+	left:97px;
+	top:165px;
+	background: url(../img/tianmaoxuebitu.png) no-repeat -88px -366px;
+}
